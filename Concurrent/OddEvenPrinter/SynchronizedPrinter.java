@@ -1,4 +1,5 @@
-public class OddEvenPrinter {
+package OddEvenPrinter;
+public class SynchronizedPrinter{
 
     // 共享资源类
     static class Printer {
